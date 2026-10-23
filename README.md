@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hallo!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ## Hi there, I'm Hiral 👋
 
 I’m a Sophmore B.S. Computer Science student at SJSU interested in software development and machine learning. I enjoy working on projects where I can build something interesting, useful, or enjoyable for others. 
