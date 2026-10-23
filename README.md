@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hallo!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 ## Hi there, I'm Hiral 👋
 
 I’m a Sophmore B.S. Computer Science student at SJSU interested in software development and machine learning. I enjoy working on projects where I can build something interesting, useful, or enjoyable for others. 
@@ -8,20 +5,19 @@ I recently started developing a bot that tracks updates from health websites and
 
 ## Tools & Languages
 Languages:
- . Python
- . Java
+ - Python
+ - Java
   
 Tools:
- . Google Colab
- . Unreal Engine (Blueprints)
- . Visual Studio Code
+ - Google Colab
+ - Unreal Engine (Blueprints)
 
  Technical: 
- . Object-Oriented Programming 
- . Data Structures
- . Algorithms
- . Debugging 
- . Data Analysis
+ - Object-Oriented Programming
+ - Data Structures
+ - Algorithms
+ - Debugging
+ - Data Analysis
 
 ## 💻 Featured Repositories
 **1. (ASTRIA (Responsible Computing Club @ SJSU - Spring 2026) (https://github.com/shubhrawal/Astria)**
