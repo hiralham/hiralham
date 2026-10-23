@@ -3,7 +3,7 @@
 I’m a Sophmore B.S. Computer Science student at SJSU interested in software development and machine learning. I enjoy working on projects where I can build something interesting, useful, or enjoyable for others. 
 I recently started developing a bot that tracks updates from health websites and research publications.
 
-##Contact
+## Contact
 📫 linkedin (www.linkedin.com/in/hiral-h)  Email: hamlai.hiral@gmail.com
 🕸️ Personal Website: https://hamlaixhiral.framer.website/
 
